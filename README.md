@@ -40,7 +40,7 @@ sudo dnf install gcc-c++
 
 ## 2️⃣ - 📚 Conceitos Básicos  
 
-✅ [**Olá Mundo!**](1-Conceitos-Basicos/hello_world/README.md) 🌍: Seu primeiro programa em **C++**.  
+✅ [**Olá Mundo!**](1-Conceitos-Basicos/hello_word/README.md) 🌍: Seu primeiro programa em **C++**.  
 ✅ [**Tipos de Dados Primitivos**](1-Conceitos-Basicos/tipos_de_dados/README.md) 🔢: `int`, `float`, `double`, `char`, `bool`, `std::string`.  
 ✅ [**Entrada e Saída**](1-Conceitos-Basicos/entrada_saida/README.md) ⌨️🖥️: Como interagir com o usuário.  
 ✅ [**Condicionais**](1-Conceitos-Basicos/condicionais/README.md) 🔀: `if`, `else`, `else if`.  
